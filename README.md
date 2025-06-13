@@ -1,3 +1,5 @@
+![Black Technology LinkedIn Banner](https://github.com/user-attachments/assets/d115aac2-b314-446a-804a-3c39b55fdb84)
+
 # 💫 About Me:
 Hi! I’m Rishi Akkala, a Computer Science (AI) student at Amrita Vishwa Vidyapeetham, passionate about building real-world solutions using AI, ML, and Data Science.<br><br>🚀 Currently interning at DRDL – DRDO, where I’m working on a YOLO-based aircraft detection system.<br>🧠 Experienced in applying LLMs, LangChain, and Streamlit to build intelligent applications like financial statement analyzers and movie recommendation systems.<br>📊 Strong foundation in machine learning, deep learning, and NLP, with a focus on building practical, user-focused tools.<br>📄 Published researcher in the field of healthcare AI – migraine classification using ML, DL, and Bayesian networks.<br>🎓 Always curious and continuously upskilling through hands-on projects, internships, and certifications.<br><br>
 
