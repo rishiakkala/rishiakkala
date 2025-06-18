@@ -17,8 +17,6 @@ Hi! I’m Rishi Akkala, a Computer Science (AI) student at Amrita Vishwa Vidyape
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rishiakkala&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=rishiakkala&limit=5&theme=holi&combine_all_yearly_contributions=true)
 
