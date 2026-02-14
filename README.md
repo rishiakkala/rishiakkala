@@ -22,28 +22,45 @@ AI engineer focused on building real-world systems using LLMs, agents, and compu
 
 ## 🚀 Featured Projects
 
-### 🧠 AI Finance Agent
-Multi-agent LLM system for financial analysis and automated insights.  
-**Tech:** LangChain, Mistral, FastAPI  
-🔗 https://github.com/rishiakkala
-
----
-
----
-
-### ✈️ Aircraft Detection System (DRDL Internship)
-YOLO-based system for multi-class aircraft detection in defense datasets.  
-**Tech:** YOLO, OpenCV, Python  
+### ✈️ Aircraft Detection Using YOLOv8
+Real-time aircraft detection system developed during DRDL internship.  
+**Tech:** YOLOv8, OpenCV, Python  
 🔗 https://github.com/rishiakkala/Aircraft-Detection-Using-YOLOv8
 
 ---
 
-### 🎬 Conversational Movie Recommender
-AI chatbot recommending movies based on mood and preferences.  
-**Tech:** NLP, ML, MongoDB, Web UI  
-🔗 https://github.com/rishiakkala
+### 🤖 Instrukt AI Agents
+Terminal-based multi-agent AI system with one-tool-per-agent architecture.  
+**Tech:** Python, LLMs, Agent frameworks  
+🔗 https://github.com/rishiakkala/Instrukt-AI-Agents
 
 ---
+
+### 🧠 Income Statement Analysis with LLM
+AI-powered financial statement analysis system using large language models.  
+**Tech:** LLMs, Python, Financial data processing  
+🔗 https://github.com/rishiakkala/Analysing_Income_Statement_with_LLM
+
+---
+
+### 🎬 Hybrid Movie Recommendation System
+Collaborative filtering + deep learning recommendation engine.  
+**Tech:** PySpark, Deep Learning, Streamlit  
+🔗 https://github.com/rishiakkala/Hybrid-Movie-Recommendation-System-using-Collaborative-Filtering-and-Deep-Learning
+
+---
+
+### 🧬 Migraine Classification (IEEE Research)
+Machine learning and deep learning models for migraine classification.  
+**Tech:** SVM, RF, KNN, DNN, Bayesian Networks  
+🔗 https://github.com/rishiakkala/Migraine-Classification-Machine-Learning
+
+---
+
+### ⚙️ queuectl
+Command-line tool for managing and analyzing system queues.  
+**Tech:** Python, CLI tools  
+🔗 https://github.com/rishiakkala/queuectl
 
 ---
 
