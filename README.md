@@ -34,6 +34,7 @@ Multi-agent LLM system for financial analysis and automated insights.
 ### ✈️ Aircraft Detection System (DRDL Internship)
 YOLO-based system for multi-class aircraft detection in defense datasets.  
 **Tech:** YOLO, OpenCV, Python  
+🔗 https://github.com/rishiakkala/Aircraft-Detection-Using-YOLOv8
 
 ---
 
