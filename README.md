@@ -1,77 +1,61 @@
 ![Black Technology LinkedIn Banner](https://github.com/user-attachments/assets/d115aac2-b314-446a-804a-3c39b55fdb84)
 
-# Hi, I’m Rishi Akkala 👋
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Engineer+in+the+making;Building+LLM+Agents;Computer+Vision+Enthusiast;Research+to+Real+Products&center=true&width=500&height=45">
+</p>
 
-AI Engineer in the making, building real-world systems with LLMs, agents, and computer vision.
+<h1 align="center">Hi, I’m Rishi Akkala 👋</h1>
 
-- ✈️ DRDL (DRDO) Intern – YOLO-based aircraft detection system  
-- 📄 IEEE Published Researcher in healthcare AI  
-- 🤖 Building AI agents, RAG systems, and ML-powered tools  
-- 🎨 Founder of Drishya Multimedia Club  
+<p align="center">
+AI engineer focused on building real-world systems using LLMs, agents, and computer vision.
+</p>
 
-> Turning models into real products, not just notebooks.
+<p align="center">
+✈️ DRDL (DRDO) Intern • 📄 IEEE Published Researcher • 🤖 AI Systems Builder
+</p>
+
+<p align="center">
+<i>Turning models into real products, not just notebooks.</i>
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🧠 AI Finance Agent
-LLM-powered financial analysis system using LangChain, Mistral, and real-time stock data.  
-- Multi-agent architecture for financial insights  
-- Automated report generation  
+Multi-agent LLM system for financial analysis and automated insights.  
+**Tech:** LangChain, Mistral, FastAPI  
 🔗 https://github.com/rishiakkala
 
 ---
-
-### 🤖 Kubernetes Failure Predictor
-Hybrid ML pipeline to detect and predict cluster failures.  
-- Random Forest for anomaly detection  
-- LSTM & Autoencoders for time-series forecasting  
-- Log-based failure explanation using LLMs  
-🔗 https://github.com/rishiakkala
 
 ---
 
 ### ✈️ Aircraft Detection System (DRDL Internship)
-YOLO-based object detection system for multi-class aircraft recognition.  
-- Real-time detection pipeline  
-- Optimized for defense dataset  
+YOLO-based system for multi-class aircraft detection in defense datasets.  
+**Tech:** YOLO, OpenCV, Python  
 
 ---
 
 ### 🎬 Conversational Movie Recommender
-AI chatbot that recommends movies based on user mood, genre, and history.  
-- NLP-based preference extraction  
-- ML recommendation engine  
-- Web interface with database support  
+AI chatbot recommending movies based on mood and preferences.  
+**Tech:** NLP, ML, MongoDB, Web UI  
 🔗 https://github.com/rishiakkala
 
 ---
 
-### 📄 Text Summarization with NLP
-Extractive and abstractive summarization system.  
-- TextRank, LexRank, frequency-based methods  
-- T5 and BART models  
-- Gradio-based interactive UI  
-🔗 https://github.com/rishiakkala
-
 ---
 
-## 🔬 Currently Exploring
+## 🔥 Currently Building
 - Multi-agent AI systems  
-- Retrieval-Augmented Generation (RAG)  
+- Retrieval-Augmented Generation (RAG) pipelines  
 - Real-time anomaly detection  
 - Embedded AI applications  
 
 ---
 
-## 💻 Core Tech Stack
-**Languages:** Python, JavaScript, C  
-**AI/ML:** PyTorch, TensorFlow, Scikit-learn, OpenCV  
-**LLM & Agents:** LangChain, RAG, Prompt Engineering  
-**Backend:** FastAPI, Node.js  
-**Frontend:** React, Streamlit  
-**Cloud & Tools:** AWS, GCP, Docker, Git  
+## 🧰 Tech Focus
+🐍 Python • 🔥 PyTorch • 🤖 LLMs • ⚡ FastAPI • ☁️ AWS • 🧠 OpenCV • 🌐 React
 
 ---
 
@@ -81,10 +65,3 @@ Extractive and abstractive summarization system.
 - Email: rishiakkala6@gmail.com  
 
 ---
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rishiakkala&theme=aura&hide_border=false&include_all_commits=true&count_private=true" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishiakkala&theme=aura&hide_border=false&layout=compact" />
-</p>
